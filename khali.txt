@@ -1,11 +1,13 @@
 Installation:
 
-apt update && apt full-upgrade
+sudo apt update 
+sudp apt upgrade
 
 pkg install python
 
 pkg install git
 
-apt update && apt full-upgrade
+sudo apt update 
+sudp apt upgrade
 
 pip install requests
